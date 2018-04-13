@@ -78,3 +78,5 @@ The MIT License (MIT). Please see [License File](https://github.com/yajra/larave
 
 ## Buy me a beer
 <a href='https://pledgie.com/campaigns/29515'><img alt='Click here to lend your support to: Laravel Datatables and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/29515.png?skin_name=chrome' border='0' ></a>
+
+Trioangle Texhnologies Pvt. Ltd.,
